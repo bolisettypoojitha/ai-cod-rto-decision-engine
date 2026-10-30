@@ -1,0 +1,5 @@
+action,orders,actual_rto,actual_delivered,avg_risk
+Ship as-is,1,0,1,0.17263711538573334
+Ship after confirmation,38,4,34,0.3134819572762397
+Nudge to prepaid,233,49,184,0.4476413621466838
+Hold / cancel,62,33,29,0.7290869711050381

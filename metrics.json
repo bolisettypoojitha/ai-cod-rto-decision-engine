@@ -1,0 +1,28 @@
+{
+  "metrics": {
+    "rows": 2018,
+    "overall_rto": 0.28245787908820613,
+    "test_auc": 0.7242873068960025,
+    "last_month": "2026-09",
+    "last_month_orders": 334,
+    "rto_cost": 169.4,
+    "avg_order_value": 918.7101090188305,
+    "prepaid_discount": 30,
+    "estimated_avoided_rto_cost": 12569.480000000001,
+    "estimated_genuine_cancel_loss": 24782.239999999998,
+    "discount_cost": 5520.0,
+    "net_impact": -17732.759999999995
+  },
+  "findings": {
+    "first_time_rto": 0.30171277997364954,
+    "returning_1_rto": 0.15384615384615385,
+    "two_prior_rto": 0.24242424242424243,
+    "top_city": "Madhubani",
+    "top_city_rto": 1.0,
+    "top_city_count": 3,
+    "meta_rto": 0.31153846153846154,
+    "direct_rto": 0.2265625,
+    "top_courier": "Xpressbees",
+    "top_courier_rto": 0.3123425692695214
+  }
+}

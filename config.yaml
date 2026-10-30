@@ -1,0 +1,19 @@
+thresholds:
+  ship_as_is_max: 0.2
+  confirmation_max: 0.35
+  prepaid_max: 0.6
+prepaid:
+  discount_rupees: 30
+confirmation:
+  timeout_hours: 24
+economics:
+  forward_shipping: 65
+  return_shipping: 65
+  packaging_handling: 25
+  product_cost: 180
+  damage_rate: 0.08
+  gross_margin: 0.62
+  meta_first_order_cac: 300
+assumptions:
+  confirmation_rto_reduction: 0.5
+  prepaid_rto_reduction: 0.8
